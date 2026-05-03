@@ -1,0 +1,7 @@
+position: 8
+label: Проектирование API (Часть 1)
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: Проектирование API – макеты, роутинг, источники данных

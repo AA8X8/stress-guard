@@ -1,0 +1,7 @@
+position: 5
+label: BPMN-диаграмма
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: BPMN-диаграмма «Ежедневный цикл учёта самочувствия и получение рекомендаций»

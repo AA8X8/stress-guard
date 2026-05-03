@@ -1,0 +1,7 @@
+position: 10
+label: 'Интеграции: асинхронное взаимодействие'
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: Асинхронные интеграции StressGuard

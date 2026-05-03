@@ -1,0 +1,7 @@
+position: 7
+label: Архитектура приложения
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: Архитектура StressGuard

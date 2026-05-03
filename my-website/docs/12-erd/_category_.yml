@@ -1,0 +1,7 @@
+position: 12
+label: Проектирование ERD
+collapsible: true
+collapsed: false
+link:
+  type: generated-index
+  title: ER-диаграммы StressGuard
